@@ -1,0 +1,89 @@
+2026-05-15 15:12:39.397 [main] INFO  Server - init entity package: com.accountserver.entity
+2026-05-15 15:12:40.277 [main] INFO  Server - application resolved root folder: D:\GameServer\server2024\accountserver
+2026-05-15 15:12:40.334 [main] INFO  Server - configuring app with basedir: C:\Users\32970\AppData\Local\Temp\default-doc-base6393717174638297086
+2026-05-15 15:12:40.340 [main] INFO  Server - loading WEB-INF resources from as 'D:\GameServer\server2024\accountserver\target\classes'
+2026-05-15 15:12:41.877 [main] INFO  Server - start http server success
+2026-05-15 15:17:41.343 [main] INFO  Server - DbManager.init() called with entityPackages: com.accountserver.entity
+2026-05-15 15:17:41.490 [main] INFO  Server - init entity package: com.accountserver.entity
+2026-05-15 15:17:41.491 [main] INFO  Server - Found 0 entities in package: com.accountserver.entity
+2026-05-15 15:17:42.317 [main] INFO  Server - SessionFactory created successfully
+2026-05-15 15:17:42.318 [main] INFO  Server - application resolved root folder: D:\GameServer\server2024\accountserver
+2026-05-15 15:17:42.379 [main] INFO  Server - configuring app with basedir: C:\Users\32970\AppData\Local\Temp\default-doc-base8642812641001073626
+2026-05-15 15:17:42.386 [main] INFO  Server - loading WEB-INF resources from as 'D:\GameServer\server2024\accountserver\target\classes'
+2026-05-15 15:17:44.077 [main] INFO  Server - start http server success
+2026-05-15 15:27:00.668 [main] INFO  Server - Server.init() called
+2026-05-15 15:27:00.674 [main] INFO  Server - dbEntityPackages from config: 'com.accountserver.entity'
+2026-05-15 15:27:00.675 [main] INFO  Server - Calling DbManager.init() with: com.accountserver.entity
+2026-05-15 15:27:00.676 [main] INFO  Server - DbManager.init() called with entityPackages: com.accountserver.entity
+2026-05-15 15:27:00.832 [main] INFO  Server - init entity package: com.accountserver.entity
+2026-05-15 15:27:00.832 [main] INFO  Server - Found 0 entities in package: com.accountserver.entity
+2026-05-15 15:27:01.603 [main] INFO  Server - SessionFactory created successfully
+2026-05-15 15:27:01.603 [main] INFO  Server - application resolved root folder: D:\GameServer\server2024\accountserver
+2026-05-15 15:27:01.663 [main] INFO  Server - configuring app with basedir: C:\Users\32970\AppData\Local\Temp\default-doc-base3768433476385993352
+2026-05-15 15:27:01.667 [main] INFO  Server - loading WEB-INF resources from as 'D:\GameServer\server2024\accountserver\target\classes'
+2026-05-15 15:27:03.328 [main] INFO  Server - start http server success
+2026-05-15 15:29:02.490 [main] INFO  Server - Server.init() called
+2026-05-15 15:29:02.494 [main] INFO  Server - dbEntityPackages from config: 'com.accountserver.entity'
+2026-05-15 15:29:02.495 [main] INFO  Server - Calling DbManager.init() with: com.accountserver.entity
+2026-05-15 15:29:02.497 [main] INFO  Server - DbManager.init() called with entityPackages: com.accountserver.entity
+2026-05-15 15:29:02.649 [main] INFO  Server - init entity package: com.accountserver.entity
+2026-05-15 15:29:02.656 [main] INFO  Server - Found 7 entities in package: com.accountserver.entity
+2026-05-15 15:29:02.657 [main] INFO  Server - Registering entity: com.accountserver.entity.BlackDeviceEntity
+2026-05-15 15:29:02.659 [main] INFO  Server - Registering entity: com.accountserver.entity.AccountEntity
+2026-05-15 15:29:02.660 [main] INFO  Server - Registering entity: com.accountserver.entity.SupervisorEntity
+2026-05-15 15:29:02.660 [main] INFO  Server - Registering entity: com.accountserver.entity.BlackLtidEntity
+2026-05-15 15:29:02.660 [main] INFO  Server - Registering entity: com.accountserver.entity.BlackIPEntity
+2026-05-15 15:29:02.660 [main] INFO  Server - Registering entity: com.accountserver.entity.RoleEntity
+2026-05-15 15:29:02.660 [main] INFO  Server - Registering entity: com.accountserver.entity.ServerEntity
+2026-05-15 15:29:03.663 [main] INFO  Server - SessionFactory created successfully
+2026-05-15 15:29:03.664 [main] INFO  Server - application resolved root folder: D:\GameServer\server2024\accountserver
+2026-05-15 15:29:03.721 [main] INFO  Server - configuring app with basedir: C:\Users\32970\AppData\Local\Temp\default-doc-base2229140937970880946
+2026-05-15 15:29:03.725 [main] INFO  Server - loading WEB-INF resources from as 'D:\GameServer\server2024\accountserver\target\classes'
+2026-05-15 15:29:05.343 [main] INFO  Server - start http server success
+2026-05-15 15:30:30.154 [main] INFO  Server - Server.init() called
+2026-05-15 15:30:30.158 [main] INFO  Server - dbEntityPackages from config: 'com.accountserver.entity'
+2026-05-15 15:30:30.158 [main] INFO  Server - Calling DbManager.init() with: com.accountserver.entity
+2026-05-15 15:30:30.160 [main] INFO  Server - DbManager.init() called with entityPackages: com.accountserver.entity
+2026-05-15 15:30:30.308 [main] INFO  Server - init entity package: com.accountserver.entity
+2026-05-15 15:30:30.319 [main] INFO  Server - Found 7 entities in package: com.accountserver.entity
+2026-05-15 15:30:30.319 [main] INFO  Server - Registering entity: com.accountserver.entity.BlackDeviceEntity
+2026-05-15 15:30:30.321 [main] INFO  Server - Registering entity: com.accountserver.entity.AccountEntity
+2026-05-15 15:30:30.321 [main] INFO  Server - Registering entity: com.accountserver.entity.SupervisorEntity
+2026-05-15 15:30:30.321 [main] INFO  Server - Registering entity: com.accountserver.entity.BlackLtidEntity
+2026-05-15 15:30:30.321 [main] INFO  Server - Registering entity: com.accountserver.entity.BlackIPEntity
+2026-05-15 15:30:30.323 [main] INFO  Server - Registering entity: com.accountserver.entity.RoleEntity
+2026-05-15 15:30:30.323 [main] INFO  Server - Registering entity: com.accountserver.entity.ServerEntity
+2026-05-15 15:30:31.356 [main] INFO  Server - SessionFactory created successfully
+2026-05-15 15:30:31.357 [main] INFO  Server - application resolved root folder: D:\GameServer\server2024\accountserver
+2026-05-15 15:30:31.415 [main] INFO  Server - configuring app with basedir: C:\Users\32970\AppData\Local\Temp\default-doc-base703043421420334094
+2026-05-15 15:30:31.421 [main] INFO  Server - loading WEB-INF resources from as 'D:\GameServer\server2024\accountserver\target\classes'
+2026-05-15 15:30:32.917 [main] INFO  Server - start http server success
+2026-05-15 15:30:53.871 [main] INFO  Server - Server.init() called
+2026-05-15 15:30:53.876 [main] INFO  Server - dbEntityPackages from config: 'com.accountserver.entity'
+2026-05-15 15:30:53.876 [main] INFO  Server - Calling DbManager.init() with: com.accountserver.entity
+2026-05-15 15:30:53.878 [main] INFO  Server - DbManager.init() called with entityPackages: com.accountserver.entity
+2026-05-15 15:30:54.026 [main] INFO  Server - init entity package: com.accountserver.entity
+2026-05-15 15:30:54.036 [main] INFO  Server - Found 7 entities in package: com.accountserver.entity
+2026-05-15 15:30:54.036 [main] INFO  Server - Registering entity: com.accountserver.entity.BlackDeviceEntity
+2026-05-15 15:30:54.038 [main] INFO  Server - Registering entity: com.accountserver.entity.AccountEntity
+2026-05-15 15:30:54.038 [main] INFO  Server - Registering entity: com.accountserver.entity.SupervisorEntity
+2026-05-15 15:30:54.040 [main] INFO  Server - Registering entity: com.accountserver.entity.BlackLtidEntity
+2026-05-15 15:30:54.040 [main] INFO  Server - Registering entity: com.accountserver.entity.BlackIPEntity
+2026-05-15 15:30:54.041 [main] INFO  Server - Registering entity: com.accountserver.entity.RoleEntity
+2026-05-15 15:30:54.041 [main] INFO  Server - Registering entity: com.accountserver.entity.ServerEntity
+2026-05-15 15:30:55.084 [main] INFO  Server - SessionFactory created successfully
+2026-05-15 15:30:55.085 [main] INFO  Server - application resolved root folder: D:\GameServer\server2024\accountserver
+2026-05-15 15:30:55.145 [main] INFO  Server - configuring app with basedir: C:\Users\32970\AppData\Local\Temp\default-doc-base3516334341028352994
+2026-05-15 15:30:55.151 [main] INFO  Server - loading WEB-INF resources from as 'D:\GameServer\server2024\accountserver\target\classes'
+2026-05-15 15:30:56.625 [main] INFO  Server - start http server success
+2026-05-15 17:23:58.342 [main] INFO  Server - init entity package: com.accountserver.entity
+2026-05-15 17:23:59.696 [main] INFO  Server - application resolved root folder: D:\GameServer\server2024\accountserver
+2026-05-15 17:23:59.756 [main] INFO  Server - configuring app with basedir: C:\Users\32970\AppData\Local\Temp\default-doc-base5351101388881545221
+2026-05-15 17:23:59.761 [main] INFO  Server - loading WEB-INF resources from as 'D:\GameServer\server2024\accountserver\target\classes'
+2026-05-15 17:24:02.179 [main] INFO  Server - start http server success
+2026-05-15 17:57:54.151 [main] INFO  Server - init entity package: com.accountserver.entity
+2026-05-15 17:57:55.247 [main] INFO  Server - SessionFactory created successfully
+2026-05-15 17:57:55.247 [main] INFO  Server - application resolved root folder: D:\GameServer\server2024\accountserver
+2026-05-15 17:57:55.305 [main] INFO  Server - configuring app with basedir: C:\Users\32970\AppData\Local\Temp\default-doc-base146127005385405210
+2026-05-15 17:57:55.310 [main] INFO  Server - loading WEB-INF resources from as 'D:\GameServer\server2024\accountserver\target\classes'
+2026-05-15 17:57:56.869 [main] INFO  Server - start http server success
