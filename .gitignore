@@ -1,0 +1,16 @@
+# Ignore log files
+*.log
+
+# Ignore target directory
+target/
+
+# Ignore class files
+*.class
+
+# Ignore IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
